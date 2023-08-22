@@ -1,0 +1,39 @@
+.imgdhar{
+    width:200px; 
+    border-radius: 50%;
+}
+
+.d1{
+    padding-top:20px;
+    height:300px;
+    border-radius: 5%;
+    background-color:#E7F6F2;
+    margin-left: 5px;
+    width:350px;
+
+}
+.cnt{
+    border-radius:20%;
+}
+#skills{
+    background-color:#F9F9F9;
+}
+#contentbody>.container{
+    background-color:#FCE9F1;
+}
+.cnt>.container{
+    background-color:#FCE9F1;
+}
+.portfolio{
+    
+    background-color:#F9F9F9;
+}
+.img-fluid{
+    margin-top:5px;
+    width:350px;
+    height:250px;
+}
+#contact{
+    
+    background-color:#F9F9F9;
+}
